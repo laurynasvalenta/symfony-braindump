@@ -11,6 +11,17 @@ This repository contains these main sections:
 * Analysis of [the official Symfony Certification topics](https://certification.symfony.com/exams/symfony.html) declared by the Symfony.
 * Set of lists that must be memorized by heart.
 
+Every exam topic (or Symfony component) is analysed by following this structure:
+
+1. Relevant documentation pages are linked in the text. 
+2. Key concepts (e.g. Cache Adapters, Form Types, Validator Constraints) are identified, their parts are listed.
+3. The following standard lists are created:
+   * Symfony Events
+   * Symfony Attributes
+   * Constants
+   * Interfaces
+
+
 ## Contents
 
 ### Symfony Certification Topics
