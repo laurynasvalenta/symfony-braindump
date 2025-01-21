@@ -43,4 +43,6 @@ Every exam topic (or Symfony component) is analysed by following this structure:
 
 ### Learn-by-heart Lists
 
-* [PSR Standards](lists%2Fpsr-standards.md)
+* [PSR Standards](by-heart%2Fpsr-standards.md)
+* [HTTP Status Codes](by-heart%2Fhttp-status-codes.md)
+* [DIC Tags](by-heart%2Fdic-tags.md)
