@@ -1,23 +1,45 @@
-## Forms
+# Forms
 
-Forms creation
+## Official Curriculum
 
-Forms handling
+#### Forms creation
 
-Form types (built-in and custom)
+#### Forms handling
 
-Forms rendering with Twig
+#### Form types (built-in and custom)
 
-Forms theming
+#### Forms rendering with Twig
 
-CSRF protection
+#### Forms theming
+* https://symfony.com/doc/7.0/form/form_customization.html
+#### CSRF protection
 
-Handling file upload
+#### Handling file upload
 
-Built-in form types
+#### Built-in form types
 
-Data transformers
+#### Data transformers
 
-Form events
+#### Form events
 
-Form type extensions
+#### Form type extensions
+
+## Additional Information
+
+#### Events
+
+#### Constants
+
+#### Attributes
+
+#### Interfaces
+
+* `Symfony\Component\Form\ChoiceList\Loader\ChoiceLoaderInterface`
+* `Symfony\Component\Form\DataMapperInterface`
+* `Symfony\Component\Form\DataTransformerInterface`
+* `Symfony\Component\Form\FormBuilderInterface`
+* `Symfony\Component\Form\FormFactoryInterface`
+* `Symfony\Component\Form\FormInterface`
+* `Symfony\Component\Form\FormTypeExtensionInterface`
+* `Symfony\Component\Form\FormTypeGuesserInterface`
+* `Symfony\Component\Form\FormTypeInterface`

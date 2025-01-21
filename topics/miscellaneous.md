@@ -1,27 +1,42 @@
-## Miscellaneous
+# Miscellaneous
 
-Configuration (including DotEnv and ExpressionLanguage components)
+## Official Curriculum
 
-Error handling
+#### Configuration (including DotEnv and ExpressionLanguage components)
+* https://symfony.com/doc/7.0/reference/formats/expression_language.html
 
-Code debugging
+#### Error handling
 
-Deployment best practices
+#### Code debugging
 
-Cache, Process and Serializer components
+#### Deployment best practices
 
-Messenger component
+#### Cache, Process and Serializer components
+* https://symfony.com/doc/7.0/serializer.html
 
-Mime and Mailer components
+#### Messenger component
 
-Filesystem and Finder components
+#### Mime and Mailer components
+* https://symfony.com/doc/7.0/components/mime.html
 
-Lock component
+#### Filesystem and Finder components
 
-Web Profiler, Web Debug Toolbar and Data collectors
+#### Lock component
 
-Internationalization and localization (and Intl component)
+#### Web Profiler, Web Debug Toolbar and Data collectors
 
-Runtime component
+#### Internationalization and localization (and Intl component)
 
-Clock component
+#### Runtime component
+
+#### Clock component
+
+## Additional Information
+
+#### Events
+
+#### Constants
+
+#### Attributes
+
+#### Interfaces

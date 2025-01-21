@@ -46,3 +46,4 @@ Every exam topic (or Symfony component) is analysed by following this structure:
 * [PSR Standards](by-heart%2Fpsr-standards.md)
 * [HTTP Status Codes](by-heart%2Fhttp-status-codes.md)
 * [DIC Tags](by-heart%2Fdic-tags.md)
+* [Serializer Normalizers](by-heart%2Fserializer-normalizers.md)

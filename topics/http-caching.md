@@ -1,13 +1,16 @@
-## HTTP Caching
+# HTTP Caching
 
-Cache types (browser, proxies and reverse-proxies)
+## Official Curriculum
 
-Expiration (Expires, Cache-Control)
+#### Cache types (browser, proxies and reverse-proxies)
+* https://symfony.com/doc/7.0/http_cache/cache_invalidation.html
 
-Validation (ETag, Last-Modified)
+#### Expiration (Expires, Cache-Control)
 
-Client side caching
+#### Validation (ETag, Last-Modified)
 
-Server side caching
+#### Client side caching
 
-Edge Side Includes
+#### Server side caching
+
+#### Edge Side Includes
