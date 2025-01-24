@@ -47,3 +47,5 @@ Every exam topic (or Symfony component) is analysed by following this structure:
 * [HTTP Status Codes](by-heart%2Fhttp-status-codes.md)
 * [DIC Tags](by-heart%2Fdic-tags.md)
 * [Serializer Normalizers](by-heart%2Fserializer-normalizers.md)
+* [Configuration](by-heart%2Fconfiguration.md)
+* [Form Types](by-heart%2Fform-types.md)
