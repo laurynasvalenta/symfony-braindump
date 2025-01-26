@@ -1,27 +1,60 @@
-## Controllers
+# Controllers
 
-Naming conventions
+## Official Curriculum
 
-The base AbstractController class
+#### Naming conventions
+* https://symfony.com/doc/7.0/controller.html
 
-The request
+#### The base AbstractController class
+* https://symfony.com/doc/7.0/controller.html#the-base-controller-class-services
 
-The response
+#### The request
+* https://symfony.com/doc/7.0/controller.html#the-request-and-response-object
 
-The cookies
+#### The response
+* https://symfony.com/doc/7.0/controller.html#the-request-and-response-object
 
-The session
+#### The cookies
+* https://symfony.com/doc/7.0/controller.html#the-request-and-response-object
 
-The flash messages
+#### The session
+* https://symfony.com/doc/7.0/controller.html#the-request-and-response-object
 
-HTTP redirects
+#### The flash messages
+* https://symfony.com/doc/7.0/controller.html#managing-the-session
 
-Internal redirects
+#### HTTP redirects
+* https://symfony.com/doc/current/components/http_foundation.html#redirecting-the-user
+* https://symfony.com/doc/7.0/controller.html#redirecting
 
-Generate 404 pages
+#### Internal redirects
+* https://symfony.com/doc/7.0/controller/forwarding.html
 
-File upload
+#### Generate 404 pages
+* https://symfony.com/doc/7.0/controller/error_pages.html
 
-Built-in internal controllers
+#### File upload
+* https://symfony.com/doc/7.0/controller/upload_file.html
 
-Argument value resolvers
+#### Built-in internal controllers
+* https://symfony.com/doc/3.x/templating/render_without_controller.html
+
+#### Argument value resolvers
+* https://symfony.com/doc/7.0/controller/value_resolver.html
+
+
+
+## Additional Information
+
+#### Events
+#### Constants
+#### Attributes
+#### Interfaces
+* `Symfony\Component\HttpFoundation\Exception\RequestExceptionInterface`
+* `Symfony\Component\HttpFoundation\RateLimiter\RequestRateLimiterInterface`
+* `Symfony\Component\HttpFoundation\RequestMatcherInterface`
+* `Symfony\Component\HttpFoundation\Session\SessionInterface`
+* `Symfony\Component\HttpFoundation\Session\Storage\SessionStorageFactoryInterface`
+* `Symfony\Component\HttpKernel\Controller\ArgumentResolverInterface`
+* `Symfony\Component\HttpKernel\Controller\ControllerResolverInterface`
+* `Symfony\Component\HttpKernel\Controller\ValueResolverInterface`
