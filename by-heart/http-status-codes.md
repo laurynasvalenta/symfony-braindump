@@ -2,7 +2,7 @@
 
 * 100 Continue
 * 101 Switching Protocols
-* 102 Processing Deprecated
+* 102 Processing
 * 103 Early Hints
 * 200 OK
 * 201 Created
@@ -19,7 +19,7 @@
 * 302 Found
 * 303 See Other
 * 304 Not Modified
-* 305 Use Proxy Deprecated
+* 305 Use Proxy 
 * 306 unused
 * 307 Temporary Redirect
 * 308 Permanent Redirect
@@ -46,7 +46,7 @@
 * 422 Unprocessable Content (WebDAV)
 * 423 Locked (WebDAV)
 * 424 Failed Dependency (WebDAV)
-* 425 Too Early Experimental
+* 425 Too Early
 * 426 Upgrade Required
 * 428 Precondition Required
 * 429 Too Many Requests
