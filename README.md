@@ -49,3 +49,4 @@ Every exam topic (or Symfony component) is analysed by following this structure:
 * [Serializer Normalizers](by-heart%2Fserializer-normalizers.md)
 * [Configuration](by-heart%2Fconfiguration.md)
 * [Form Types](by-heart%2Fform-types.md)
+* [Validator Constraints](by-heart%2Fvalidator-constraints.md)
