@@ -35,8 +35,11 @@
 
 ## Additional Information
 
+#### Other Documentation
+* https://symfony.com/doc/7.0/console.html
+* https://symfony.com/doc/7.0/components/console/changing_default_command.html
+
 #### Events
-* `Symfony\Component\Console\Event\ConsoleCommandEvent`
 * `Symfony\Component\Console\Event\ConsoleCommandEvent`
 * `Symfony\Component\Console\Event\ConsoleErrorEvent`
 * `Symfony\Component\Console\Event\ConsoleTerminateEvent`

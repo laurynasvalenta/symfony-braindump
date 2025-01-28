@@ -4,6 +4,7 @@
 
 #### Cache types (browser, proxies and reverse-proxies)
 * https://symfony.com/doc/7.0/http_cache/cache_invalidation.html
+* https://symfony.com/doc/7.0/http_cache/cache_vary.html
 
 #### Expiration (Expires, Cache-Control)
 
@@ -14,3 +15,4 @@
 #### Server side caching
 
 #### Edge Side Includes
+* https://symfony.com/doc/7.0/http_cache/esi.html
