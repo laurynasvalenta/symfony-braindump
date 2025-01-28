@@ -19,6 +19,7 @@
 
 #### The session
 * https://symfony.com/doc/7.0/controller.html#the-request-and-response-object
+* https://symfony.com/doc/7.0/session.html
 
 #### The flash messages
 * https://symfony.com/doc/7.0/controller.html#managing-the-session

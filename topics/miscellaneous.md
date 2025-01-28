@@ -20,6 +20,7 @@
 * https://symfony.com/doc/7.0/components/mime.html
 
 #### Filesystem and Finder components
+* https://symfony.com/doc/7.0/components/filesystem.html
 
 #### Lock component
 
@@ -40,3 +41,7 @@
 #### Attributes
 
 #### Interfaces
+
+* `Symfony\Component\Cache\Marshaller\MarshallerInterface`
+* `Symfony\Component\Cache\PruneableInterface`
+* `Symfony\Component\Clock\ClockInterface`
