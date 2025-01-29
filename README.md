@@ -51,3 +51,4 @@ Every exam topic (or Symfony component) is analysed by following this structure:
 * [Form Types](by-heart%2Fform-types.md)
 * [Validator Constraints](by-heart%2Fvalidator-constraints.md)
 * [Lock Stores](by-heart%2Flock-stores.md)
+* [Security](by-heart%2Fsecurity.md)
