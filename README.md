@@ -49,6 +49,7 @@ Every exam topic (or Symfony component) is analysed by following this structure:
 * [Serializer Normalizers](by-heart%2Fserializer-normalizers.md)
 * [Configuration](by-heart%2Fconfiguration.md)
 * [Form Types](by-heart%2Fform-types.md)
-* [Validator Constraints](by-heart%2Fvalidator-constraints.md)
+* [Validation Constraints](by-heart%2Fvalidation-constraints.md)
 * [Lock Stores](by-heart%2Flock-stores.md)
 * [Security](by-heart%2Fsecurity.md)
+* [Twig](by-heart%2Ftwig.md)
